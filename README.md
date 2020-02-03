@@ -1,7 +1,7 @@
 ## 송주영 포트폴리오
 
 ### 프로젝트
-[심야식당]()
+[심야식당]
 
 ### 개요
 * 심야에 영업하는 맛집을 쉽게 찾을 수 있도록 돕는 서비스
@@ -18,17 +18,17 @@
 <br>
 
 ### 프로젝트
-[]()
+[커뮤니티 사이트내 게시판]
 
 ### 개요
-* **Spring Framework**를 이용한 직원관리 및 **Spring Security**를 이용한 계정 권한 부여
+* **Ajax**를 활용한 CRUD가 가능한 게시판
 
 ### 공헌한 내용
-* 참여도: **개인프로젝트**
-* JAVA, **Spring, MyBatis, SpringSecurity**, 이미지 파일 업로드, JSP, JSTL, EL
+* 참여도: **25%**
+* JAVA, JSP, JSTL, EL
 * Git(SourceTree), GitHub
-* HTML, CSS, BootStrap, JavaScript, jQuery
-* Spring Tool Suite, Oracle, Apache Tomcat v8.0
+* HTML, CSS, BootStrap, JavaScript, jQuery, Ajax
+* Oracle, Apache Tomcat v8.0
 <br>
 
 
