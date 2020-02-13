@@ -21,7 +21,7 @@
 [비트커뮤](https://github.com/song9933/bitcomu/tree/master)
 
 ### 개요
-* **Ajax**를 활용한 CRUD가 가능한 게시판
+* 회원들이 이용할 수 있는 커뮤니티 사이트
 
 ### 공헌한 내용
 * 참여도: **25%**
